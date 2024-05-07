@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Medical Store</title>
+    <link rel="stylesheet" href="../css/style.css">
+    <script type="text/javascript" src="../dist/index.js"></script>
+</head>
+
+<body>
+
+    <!--index page-->
+    <div id="index-page">
+        <button onclick="signup()">Sign Up</button><button onclick="signin()">Sign IN</button>
+    </div>
+
+    <!--sign up page-->
+    <div id="sign-up">
+        <p style="text-align: center;font-weight: bold;font-size: 2.3rem;">Sign UP PAGE</p>
+        <label for="username">UserName</label><br>
+        <input type="text" name="username" id="username" required><br><br>
+        <label for="mailid">MailID</label><br>
+        <input type="email" name="mailid" id="mailid" required><br><br>
+        <label for="phoneno">phoneno</label><br>
+        <input type="number" name="phoneno" id="phoneno" required><br><br>
+        <label for="password">Password</label><br>
+        <input type="password" name="password" id="password" required><br><br>
+        <label for="confirmpassword">Confirm Password</label><br>
+        <input type="password" name="confirmpassword" id="confirmpassword" required><br><br>
+        <button onclick="signupSubmit()" style="height: 3rem;width: 5rem;margin-left: 45%;">Submit</button>
+    </div>
+
+
+    <!--sign in page-->
+    <div id="sign-in">
+        <p style="text-align: center;font-weight: bold;font-size: 2.3rem;">Sign IN PAGE</p>
+        <label for="username">UserName</label><br>
+        <input type="text" name="username" id="sign-in-username" required><br><br>
+        <label for="password">Password</label><br>
+        <input type="password" name="password" id="sign-in-password" required><br><br>
+        <button onclick=" signinSubmit()" style="height: 3rem;width: 5rem;margin-left: 40%;">submit</button>
+    </div>
+
+    <!--navigation bar-->
+    <div id="nav-bar">
+        <button id="home" onclick="homepage()">HOME</button>
+        <button id="medicinedetails" onclick="medicineDetails()">MEDICIENE DETAILS</button>
+        <button id="purchase" onclick="purchase()">PURCHASE</button>
+        <button id="orderhistory" onclick="orderhistory()">ORDER HISTORY</button>
+        <button id="topup" onclick="topup()">TOP UP</button>
+        <button id="showbalance" onclick="balancetable()">SHOW BALANCE</button>
+        <button id="cancelorder" onclick="cancelorder()">CANCEL ORDER</button>
+        <button id="logout" onclick="logout()">LOG OUT</button>
+    </div>
+
+    <!--Home page-->
+    <div id="homepage">
+    </div>
+
+    <!--Medicine Details display-->
+    
+
+    <div id="medicinetable">
+        <button id="medicineAddbutton" onclick="medicineAdd()">Add</button>
+        <table id="medicinedetailstable">
+        </table>
+    </div>
+    
+    <!--Getting the medicine details when user clicks the add button-->
+    <div id="medicineAdd">
+        <label for="medicinename">Medicine Name</label><br>
+        <input type="text" id="medicinenameadd" name="medicinename"><br><br>
+        <label for="medicineprice" name="medicineprice">Medicine Price</label><br>
+        <input type="number" id="medicinepriceadd"><br><br>
+        <label for="medicincequantity">Medicine Quantity</label><br>
+        <input type="number" id="medicinequantityadd" name="medicinequantity"><br><br>
+        <label for="medicineexpirydate">Expiry Date</label><br>
+        <input type="date" name="medicineexpirydate" id="medicinedateadd"><br><br>
+        <button onclick="medicineAddSubmit()" style="height: 3rem;width: 5rem;margin-left: 45%;">Submit</button>
+    </div>
+
+    <!--editing the medicine table-->
+    <div id="medicineedit">
+        <input type="number" id="medicineid" style="display: none;">
+        <label for="medicinename">Medicine Name</label><br>
+        <input type="text" id="medicinenameedit" name="medicinename"><br><br>
+        <label for="medicineprice" name="medicineprice">Medicine Price</label><br>
+        <input type="number" id="medicinepriceedit"><br><br>
+        <label for="medicincequantity">Medicine Quantity</label><br>
+        <input type="number" id="medicinequantityedit" name="medicinequantity"><br><br>
+        <label for="medicineexpirydate">Expiry Date</label><br>
+        <input type="date" name="medicineexpirydate" id="medicinedateedit"><br><br>
+        <button onclick="medicineeditsubmit()" style="height: 3rem;width: 5rem;margin-left: 45%;">Submit</button>
+    </div>
+
+    <!--purchase-->
+    <div id="purchase-table">
+        <table id="purchasedisplaytable">
+        </table>
+    </div>
+
+    <!--purchase buy table-->
+    <div id="purchasebuytable">
+    </div>
+    <!--top up-->
+    <div id="top-up">
+        <label for="enteramount">Enter the amount</label>
+        <input type="number" id="rechargeamt"><br><br>
+        <button onclick="validateTopUp()"style="margin-left:45%;">Submit</button>
+    </div>
+
+    <!--balance table-->
+    <div id="balance-table">
+    </div>
+
+    <!--order history-->
+    <div id="orderhistorys">
+        <table id="orderhistorytable"></table>
+    </div>
+
+    <!--cancelling the order-->
+    <div id="cancelorders">
+        <table id="cancelordertable"></table>
+    </div>
+
+    <!--logout page-->
+    <p id="logout-page"></p>
+
+</body>
+
+</html>

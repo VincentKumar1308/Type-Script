@@ -1,0 +1,209 @@
+/* general design of the div tags */
+*{
+    font-size: 1.1rem;
+    font-weight: bolder;
+}
+div{
+    background-color: rgb(246, 201, 145);
+    padding: 2%;
+    width: 60%;
+    margin-left: 10%;
+    margin-top: 5%;
+    
+}
+div label,input{
+    margin-left: 40%;
+    
+}
+
+div input{
+    height: 1.3rem;
+   
+}
+
+/* home page design */
+
+#index-page button{
+    height: 3rem;
+    width: 20%;
+    margin-left:20% ;
+}
+
+/*sign up page */
+
+#sign-up{
+    display: none;
+}
+
+/* sign in page */
+
+#sign-in{
+    display: none;
+}
+
+/* nav bar */
+#nav-bar{
+    display: flex;
+    justify-content: space-around;
+    display: none;
+    margin: auto;
+    margin-top:2%
+   
+}
+
+
+#nav-bar  button{
+    height: 2.5rem;
+    font-weight: bold;
+}  
+
+/* home page */
+#homepage{
+    display: none;
+    margin: auto;
+    margin-top: 2%;
+}
+
+/* medicine details */
+
+#medicinetable #medicinedetailstable,#rowalign,.col-align,td{
+    border: 2px solid black;
+    border-collapse: collapse;
+    margin: auto;
+    width: 60%;
+    height: 100%;
+    
+  
+}
+
+#medicinetable{
+    width: 60%;
+    margin: auto;
+    margin-top: 5%;
+    display: none;
+ 
+}
+
+#edit-btn{
+    width: 5rem;
+    padding: 1%;
+    height: 2rem;
+    color:white;
+    background-color: rgb(59, 126, 59);
+    margin-bottom: 10%;
+    margin-top:2%
+}
+
+#delete-btn{
+    width: 5rem;
+    height: 2rem;
+    padding: 1%;
+    color: white;
+    background-color: red;
+    margin-top: 5%;
+    margin-bottom:25%;
+}
+
+
+#edit-btn:hover{
+    width: 5rem;
+    padding: 1%;
+    height: 2rem;
+    color:rgb(82, 47, 47);
+    background-color: rgb(122, 194, 122);
+    margin-bottom: 10%;
+    margin-top:2%;
+    font-weight: bold;
+}
+
+#delete-btn:hover{
+    width: 5rem;
+    height: 2rem;
+    padding: 1%;
+    color: rgb(17, 7, 46);
+    background-color: rgb(176, 96, 96);
+    margin-top: 5%;
+    margin-bottom:25%;
+    font-weight: bold;
+
+}
+
+#medicineAddbutton{
+    margin-left: 20%;
+    margin-bottom: 2%;
+    height: 2rem;
+    width:5rem;
+    background-color: green;
+    color: white;
+    font-weight: bold;
+}
+#medicineAddbutton:hover{
+    background-color: rgb(125, 179, 125);
+}
+
+/*medicine details addsubmit button */
+#medicineAdd{
+    display: none;
+    margin:auto;
+    margin-top: 3%;
+}
+
+/*medicine details edit */
+#medicineedit{
+    display: none;
+    margin: auto;
+   margin-top: 2%;
+}
+
+/* top up */
+
+#top-up{
+    display:none ;
+    margin: auto;
+    margin-top: 3%;
+    
+}
+
+/* balance table */
+#balance-table{
+    display:none ;
+    margin: auto;
+    margin-top: 3%;
+}
+
+/* purchasetable */
+#purchase-table{
+    display: none;
+    margin: auto;
+    margin-top: 3%;
+}
+/* purchase table buy */
+#purchasebuytable{
+    display: none;
+    margin: auto;
+    margin-top: 3%;
+}
+
+#purchasebuytable button{
+    margin: auto;
+    margin-left: 45%;
+}
+/* order history */
+#orderhistorys{
+    display: none;
+}
+/* cancel order */
+#cancelorders{
+    display: none;
+}
+
+
+
+
+/* log out */
+
+
+
+
+
+

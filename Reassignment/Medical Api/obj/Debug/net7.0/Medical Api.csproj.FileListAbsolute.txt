@@ -1,0 +1,59 @@
+C:\Users\VincentKumarLourduJo\OneDrive - Syncfusion\Desktop\FrontEnd\TypeScript\Reassignment\Medical Api\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\VincentKumarLourduJo\OneDrive - Syncfusion\Desktop\FrontEnd\TypeScript\Reassignment\Medical Api\bin\Debug\net7.0\appsettings.json
+C:\Users\VincentKumarLourduJo\OneDrive - Syncfusion\Desktop\FrontEnd\TypeScript\Reassignment\Medical Api\bin\Debug\net7.0\Medical Api.exe
+C:\Users\VincentKumarLourduJo\OneDrive - Syncfusion\Desktop\FrontEnd\TypeScript\Reassignment\Medical Api\bin\Debug\net7.0\Medical Api.deps.json
+C:\Users\VincentKumarLourduJo\OneDrive - Syncfusion\Desktop\FrontEnd\TypeScript\Reassignment\Medical Api\bin\Debug\net7.0\Medical Api.runtimeconfig.json
+C:\Users\VincentKumarLourduJo\OneDrive - Syncfusion\Desktop\FrontEnd\TypeScript\Reassignment\Medical Api\bin\Debug\net7.0\Medical Api.dll
+C:\Users\VincentKumarLourduJo\OneDrive - Syncfusion\Desktop\FrontEnd\TypeScript\Reassignment\Medical Api\bin\Debug\net7.0\Medical Api.pdb
+C:\Users\VincentKumarLourduJo\OneDrive - Syncfusion\Desktop\FrontEnd\TypeScript\Reassignment\Medical Api\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\VincentKumarLourduJo\OneDrive - Syncfusion\Desktop\FrontEnd\TypeScript\Reassignment\Medical Api\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\VincentKumarLourduJo\OneDrive - Syncfusion\Desktop\FrontEnd\TypeScript\Reassignment\Medical Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\VincentKumarLourduJo\OneDrive - Syncfusion\Desktop\FrontEnd\TypeScript\Reassignment\Medical Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\VincentKumarLourduJo\OneDrive - Syncfusion\Desktop\FrontEnd\TypeScript\Reassignment\Medical Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\VincentKumarLourduJo\OneDrive - Syncfusion\Desktop\FrontEnd\TypeScript\Reassignment\Medical Api\obj\Debug\net7.0\Medical Api.csproj.AssemblyReference.cache
+C:\Users\VincentKumarLourduJo\OneDrive - Syncfusion\Desktop\FrontEnd\TypeScript\Reassignment\Medical Api\obj\Debug\net7.0\Medical Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VincentKumarLourduJo\OneDrive - Syncfusion\Desktop\FrontEnd\TypeScript\Reassignment\Medical Api\obj\Debug\net7.0\Medical Api.AssemblyInfoInputs.cache
+C:\Users\VincentKumarLourduJo\OneDrive - Syncfusion\Desktop\FrontEnd\TypeScript\Reassignment\Medical Api\obj\Debug\net7.0\Medical Api.AssemblyInfo.cs
+C:\Users\VincentKumarLourduJo\OneDrive - Syncfusion\Desktop\FrontEnd\TypeScript\Reassignment\Medical Api\obj\Debug\net7.0\Medical Api.csproj.CoreCompileInputs.cache
+C:\Users\VincentKumarLourduJo\OneDrive - Syncfusion\Desktop\FrontEnd\TypeScript\Reassignment\Medical Api\obj\Debug\net7.0\Medical Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\VincentKumarLourduJo\OneDrive - Syncfusion\Desktop\FrontEnd\TypeScript\Reassignment\Medical Api\obj\Debug\net7.0\Medical Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\VincentKumarLourduJo\OneDrive - Syncfusion\Desktop\FrontEnd\TypeScript\Reassignment\Medical Api\obj\Debug\net7.0\staticwebassets\msbuild.Medical Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\VincentKumarLourduJo\OneDrive - Syncfusion\Desktop\FrontEnd\TypeScript\Reassignment\Medical Api\obj\Debug\net7.0\staticwebassets\msbuild.build.Medical Api.props
+C:\Users\VincentKumarLourduJo\OneDrive - Syncfusion\Desktop\FrontEnd\TypeScript\Reassignment\Medical Api\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Medical Api.props
+C:\Users\VincentKumarLourduJo\OneDrive - Syncfusion\Desktop\FrontEnd\TypeScript\Reassignment\Medical Api\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Medical Api.props
+C:\Users\VincentKumarLourduJo\OneDrive - Syncfusion\Desktop\FrontEnd\TypeScript\Reassignment\Medical Api\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\VincentKumarLourduJo\OneDrive - Syncfusion\Desktop\FrontEnd\TypeScript\Reassignment\Medical Api\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\VincentKumarLourduJo\OneDrive - Syncfusion\Desktop\FrontEnd\TypeScript\Reassignment\Medical Api\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\VincentKumarLourduJo\OneDrive - Syncfusion\Desktop\FrontEnd\TypeScript\Reassignment\Medical Api\obj\Debug\net7.0\scopedcss\bundle\Medical Api.styles.css
+C:\Users\VincentKumarLourduJo\OneDrive - Syncfusion\Desktop\FrontEnd\TypeScript\Reassignment\Medical Api\obj\Debug\net7.0\Medical Api.csproj.CopyComplete
+C:\Users\VincentKumarLourduJo\OneDrive - Syncfusion\Desktop\FrontEnd\TypeScript\Reassignment\Medical Api\obj\Debug\net7.0\Medical Api.dll
+C:\Users\VincentKumarLourduJo\OneDrive - Syncfusion\Desktop\FrontEnd\TypeScript\Reassignment\Medical Api\obj\Debug\net7.0\refint\Medical Api.dll
+C:\Users\VincentKumarLourduJo\OneDrive - Syncfusion\Desktop\FrontEnd\TypeScript\Reassignment\Medical Api\obj\Debug\net7.0\Medical Api.pdb
+C:\Users\VincentKumarLourduJo\OneDrive - Syncfusion\Desktop\FrontEnd\TypeScript\Reassignment\Medical Api\obj\Debug\net7.0\Medical Api.genruntimeconfig.cache
+C:\Users\VincentKumarLourduJo\OneDrive - Syncfusion\Desktop\FrontEnd\TypeScript\Reassignment\Medical Api\obj\Debug\net7.0\ref\Medical Api.dll
+C:\Users\VincentKumarLourduJo\OneDrive - Syncfusion\Desktop\FrontEnd\TypeScript\Reassignment\Medical Api\bin\Debug\net7.0\EntityFramework.SqlServer.dll
+C:\Users\VincentKumarLourduJo\OneDrive - Syncfusion\Desktop\FrontEnd\TypeScript\Reassignment\Medical Api\bin\Debug\net7.0\EntityFramework.dll
+C:\Users\VincentKumarLourduJo\OneDrive - Syncfusion\Desktop\FrontEnd\TypeScript\Reassignment\Medical Api\bin\Debug\net7.0\EntityFramework6.Npgsql.dll
+C:\Users\VincentKumarLourduJo\OneDrive - Syncfusion\Desktop\FrontEnd\TypeScript\Reassignment\Medical Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\VincentKumarLourduJo\OneDrive - Syncfusion\Desktop\FrontEnd\TypeScript\Reassignment\Medical Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\VincentKumarLourduJo\OneDrive - Syncfusion\Desktop\FrontEnd\TypeScript\Reassignment\Medical Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\VincentKumarLourduJo\OneDrive - Syncfusion\Desktop\FrontEnd\TypeScript\Reassignment\Medical Api\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\VincentKumarLourduJo\OneDrive - Syncfusion\Desktop\FrontEnd\TypeScript\Reassignment\Medical Api\bin\Debug\net7.0\Npgsql.dll
+C:\Users\VincentKumarLourduJo\OneDrive - Syncfusion\Desktop\FrontEnd\TypeScript\Reassignment\Medical Api\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\VincentKumarLourduJo\OneDrive - Syncfusion\Desktop\FrontEnd\TypeScript\Reassignment\Medical Api\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\VincentKumarLourduJo\OneDrive - Syncfusion\Desktop\FrontEnd\TypeScript\Reassignment\Medical Api\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\VincentKumarLourduJo\OneDrive - Syncfusion\Desktop\FrontEnd\TypeScript\Reassignment\Medical Api\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\VincentKumarLourduJo\OneDrive - Syncfusion\Desktop\FrontEnd\TypeScript\Reassignment\Medical Api\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\VincentKumarLourduJo\OneDrive - Syncfusion\Desktop\FrontEnd\TypeScript\Reassignment\Medical Api\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\VincentKumarLourduJo\OneDrive - Syncfusion\Desktop\FrontEnd\TypeScript\Reassignment\Medical Api\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\VincentKumarLourduJo\OneDrive - Syncfusion\Desktop\FrontEnd\TypeScript\Reassignment\Medical Api\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\VincentKumarLourduJo\OneDrive - Syncfusion\Desktop\FrontEnd\TypeScript\Reassignment\Medical Api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\VincentKumarLourduJo\OneDrive - Syncfusion\Desktop\FrontEnd\TypeScript\Reassignment\Medical Api\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\VincentKumarLourduJo\OneDrive - Syncfusion\Desktop\FrontEnd\TypeScript\Reassignment\Medical Api\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\VincentKumarLourduJo\OneDrive - Syncfusion\Desktop\FrontEnd\TypeScript\Reassignment\Medical Api\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\VincentKumarLourduJo\OneDrive - Syncfusion\Desktop\FrontEnd\TypeScript\Reassignment\Medical Api\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\VincentKumarLourduJo\OneDrive - Syncfusion\Desktop\FrontEnd\TypeScript\Reassignment\Medical Api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\VincentKumarLourduJo\OneDrive - Syncfusion\Desktop\FrontEnd\TypeScript\Reassignment\Medical Api\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\VincentKumarLourduJo\OneDrive - Syncfusion\Desktop\FrontEnd\TypeScript\Reassignment\Medical Api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\VincentKumarLourduJo\OneDrive - Syncfusion\Desktop\FrontEnd\TypeScript\Reassignment\Medical Api\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\VincentKumarLourduJo\OneDrive - Syncfusion\Desktop\FrontEnd\TypeScript\Reassignment\Medical Api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
