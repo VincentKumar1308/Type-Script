@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Metro Card</title>
+    <link rel="stylesheet" href="../css/style.css">
+    <script type="text/javascript" src="../dist/index.js"></script>
+</head>
+<body>
+
+    <div id="index-page">
+        <button onclick="signup()">Sign Up</button>
+        <button onclick="siginin()">Sign In</button>
+    </div>
+    
+    <!--sign up page-->
+    <div id="sign-up">
+        <p style="text-align: center;font-weight: bold;font-size: 2.3rem;">Sign UP PAGE</p>
+        <label for="username">UserName</label><br>
+        <input type="text" name="username" id="username" required><br><br>
+        <label for="phoneno">phoneno</label><br>
+        <input type="number" name="phoneno" id="phoneno" required><br><br>
+        <label for="password">Password</label><br>
+        <input type="password" name="password" id="password" required><br><br>
+        <label for="confirmpassword">Confirm Password</label><br>
+        <input type="password" name="confirmpassword" id="confirmpassword" required><br><br>
+        <button onclick="signupSubmit()" style="height: 3rem;width: 5rem;margin-left: 45%;">Submit</button>
+    </div>
+
+    <!--sign in page-->
+    <div id="sign-in">
+        <p style="text-align: center;font-weight: bold;font-size: 2.3rem;">Sign IN PAGE</p>
+        <label for="username">UserName</label><br>
+        <input type="text" name="username" id="sign-in-username" required><br><br>
+        <label for="password">Password</label><br>
+        <input type="password" name="password" id="sign-in-password" required><br><br>
+        <button onclick=" signinSubmit()" style="height: 3rem;width: 5rem;margin-left: 40%;">submit</button>
+    </div>
+
+    <!--navigation bar-->
+    <div id="nav-bar">
+        <button id="home" onclick="homepage()">HOME</button>
+        <button id="ticket" onclick="ticket()">Travel</button>
+        <button id="recharge" onclick="recharge()">Recharge</button>
+        <button id="orderhistory" onclick="balance()">Balance</button>
+        <button id="topup" onclick="travelhistory()">Travel History</button>
+        <button id="logout" onclick="logout()">LOG OUT</button>
+    </div>
+
+
+   <!--home page-->
+   <div id="homepage">
+   </div>
+
+
+
+  <!--ticket fair-->
+  <div id="ticketfair">
+    <table id="ticketfairtable" style="border: 2px solid black;"></table>
+  </div>
+
+  <!--Recharge table-->
+  <div id="rechargetable"></div>
+
+  <!--show Balance table-->
+  <div id="balancetable"></div>
+
+  <!--travel history-->
+  <div id="travelhistory">
+    <table id="travelhistorytable"></table>
+  </div>
+
+  <!--log out-->
+  
+</body>
+</html>
