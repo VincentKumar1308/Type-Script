@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="../css/style.css">
+    <script src="../dist/index.js"></script>
+</head>
+<body>
+     <!--index page-->
+     <div id="index-page">
+        <button onclick="signup()">Sign Up</button><button onclick="signin()">Sign IN</button>
+    </div>
+
+    
+    <!--sign up page-->
+
+    <div id="sign-up">
+        <p style="text-align: center;font-weight: bold;font-size: 2.3rem;">Sign UP PAGE</p>
+        <label for="username">UserName</label><br>
+        <input type="text" name="username" id="username" required><br><br>
+        <label for="mailid">MailID</label><br>
+        <input type="email" name="mailid" id="mailid" required><br><br>
+        <label for="phoneno">phoneno</label><br>
+        <input type="number" name="phoneno" id="phoneno" required><br><br>
+        <label for="password">Password</label><br>
+        <input type="password" name="password" id="password" required><br><br>
+        <label for="password">Upload Your Photo</label><br>
+        <input type="file" name="photo" id="userphoto" required><br><br>
+        <label for="confirmpassword">Confirm Password</label><br>
+        <input type="password" name="confirmpassword" id="confirmpassword" required><br><br>
+        <button onclick="signupSubmit()" style="height: 3rem;width: 5rem;margin-left: 45%;">Submit</button>
+    </div>
+
+     <!--sign in page-->
+     <div id="sign-in">
+        <p style="text-align: center;font-weight: bold;font-size: 2.3rem;">Sign IN PAGE</p>
+        <label for="username">UserName</label><br>
+        <input type="text" name="username" id="sign-in-username" required><br><br>
+        <label for="password">Password</label><br>
+        <input type="password" name="password" id="sign-in-password" required><br><br>
+        <button onclick=" signinSubmit()" style="height: 3rem;width: 5rem;margin-left: 45%;">submit</button>
+    </div>
+
+    <!--nav bar-->
+     <!--navigation bar-->
+     <div id="nav-bar">
+        <button id="home" onclick="homepage()">HOME</button>
+        <button id="walletbalance" onclick="walletbalance()">Wallet Balance</button>
+        <button id="grocerydetails" onclick="grocery()">GroceryDetails</button>
+        <button id="purchase" onclick="purchase()">Purchase</button>
+        <button id="walletrecharge" onclick="recharge()">Wallet Recharge</button>
+        <button id="cart" onclick="cart()">Cart</button>
+        <button id="purchasehistory" onclick="purchasehistory()">OrderHistory</button>
+        <button id="logout" onclick="logout()">LOG OUT</button>
+    </div>
+
+    <!--home page-->
+    <div id="homepage"></div>
+
+    <!--walet balance-->
+    <div id="walletbalancetable">
+    <img src="" alt="" id="currentuserphoto">
+    </div>
+
+    <!--wallet recharge-->
+    <div id="walletrechargetable">
+        <h1>Enter the amount to recharge</h1>
+        <input type="number" placeholder="Enter the  amount" id="rechargeamt">
+        <button onclick="validaterecharge()">Submit</button>
+    </div>
+
+    <!--gorcery details table-->
+    <div id="grocerydetailstable">
+        <button style="background-color: rgb(236, 57, 57);color: white;width: 10%;" onclick="grocerydetailsaddtable()">Add</button>
+        <table id="grocerytable"></table>
+    </div>
+    <!--grocery details add table-->
+    <div id="grocerydetailsaddtable">
+        <label for="groceryname">Grocery Name</label>
+        <input type="text" id="groceryname" placeholder="groceryname" name="groceryname"><br><br>
+        <label for="availablequantity">Available Quantity</label>
+        <input type="text" id="availablequantity" placeholder="availablequantity" name="availablequantity"><br><br>
+        <label for="unitprice">Unit Price</label><br>
+        <input type="number" id="unitprice" placeholder="unitprice" name="unitprice"><br><br>
+        <label for="PurchaseDate">Purchase Date</label><br>
+        <input type="date" id="purchasedate" placeholder="PurchaseDate" name="PurchaseDate"><br><br>
+        <label for="Expirydate">Expiry Date</label><br>
+        <input type="date" id="expirydate" placeholder="Expirydate" name="Expirydate"><br><br>
+        <label for="GroceryPhoto">Grocery Photo</label><br>
+        <input type="file" id="groceryphoto" placeholder="GroceryPhoto" name="GroceryPhoto"><br><br>
+        <button onclick="AddgrocerySubmit()">Submit</button>
+<img src="" alt="">
+</div>
+
+<!--grocery edit-->
+<div id="groceryedit">
+    <label for="groceryname">Grocery Name</label><br>
+    <input type="text" id="grocerynameedit" name="groceryname"><br><br>
+    <label for="groceryprice" >Grocery Price</label><br>
+    <input type="number" id="grocerypriceedit"name="groceryprice"><br><br>
+    <label for="groceryqty">Grocery Quantity</label><br>
+    <input type="number" id="groceryqtyedit" name="groceryqty"><br><br>
+    <label for="grocerypurchasedate">Purchase Date</label><br>
+    <input type="date" name="grocerypurchasedate" id="purchasedateedit"><br><br>
+    <label for="groceryexpirydate">Expiry Date</label><br>
+    <input type="date" name="groceryexpirydate" id="expirydateedit"><br><br>
+    <label for="GroceryPhoto">Grocery Photo</label><br>
+    <input type="file" id="groceryphotoedit" placeholder="GroceryPhoto" name="GroceryPhoto"><br><br>
+    <button onclick="groceryeditsubmit()" style="height: 3rem;width: 5rem;margin-left: 45%;">Submit</button>
+</div>
+
+<!--purchase-->
+<div id="purchasetable">
+</div>
+
+<!--getting quantity-->
+<div id="quantity"></div>
+
+<!--adding to the local cart-->
+<table id="localcart"></table>
+
+<!--order history-->
+<table id="orderhistory"></table>
+<!--logout-->
+</body>
+</html>
